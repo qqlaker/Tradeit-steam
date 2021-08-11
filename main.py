@@ -10,9 +10,9 @@ import json
 from fake_useragent import UserAgent
 import sys
 
-token = '1436931925:AAE8NEZhF-2UBMbGeM1JX22nSXAoAG6yCLI' # telegram bot token
+token = '' # telegram bot token
 name = 'ZavozBot' # telegram bot name
-chat_id = '-1001236908133' # telegram chat id
+chat_id = '' # telegram chat id
 
 removed = [[], [], []]
 
