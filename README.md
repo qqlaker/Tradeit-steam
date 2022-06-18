@@ -1,2 +1,2 @@
 # zavozbot
-Tradeit -> steam trade bot [ beta =) ]
+Tradeit -> steam
